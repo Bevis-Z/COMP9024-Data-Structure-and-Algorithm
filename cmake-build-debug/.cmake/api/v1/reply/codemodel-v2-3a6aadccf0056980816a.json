@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "COMP9024_Bevis",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Dij::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dij-Debug-560d9a966eab9c3f71ec.json",
+					"name" : "Dij",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Graph::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Graph-Debug-d3e45144cbc2cb405de0.json",
+					"name" : "Graph",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Graph2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Graph2-Debug-d68eeecdda592d2ff4e2.json",
+					"name" : "Graph2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "WGraph::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-WGraph-Debug-83e2a804d8880387428f.json",
+					"name" : "WGraph",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Warshall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Warshall-Debug-230e98ebdf19daa8f9c4.json",
+					"name" : "Warshall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "llcreate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-llcreate-Debug-7d12f6f0bc4941bfc968.json",
+					"name" : "llcreate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "llsplit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-llsplit-Debug-6eacfc3c3e04d00b0ee0.json",
+					"name" : "llsplit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "palindrome::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-palindrome-Debug-eb23f736d93f63d1c12c.json",
+					"name" : "palindrome",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test-Debug-f718d3b7a8f66e99b050.json",
+					"name" : "test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mac/CLionProjects/COMP9024_Bevis/cmake-build-debug",
+		"source" : "/Users/mac/CLionProjects/COMP9024_Bevis"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,11 @@
+/Users/mac/CLionProjects/COMP9024_Bevis/cmake-build-debug/CMakeFiles/test.dir
+/Users/mac/CLionProjects/COMP9024_Bevis/cmake-build-debug/CMakeFiles/palindrome.dir
+/Users/mac/CLionProjects/COMP9024_Bevis/cmake-build-debug/CMakeFiles/llcreate.dir
+/Users/mac/CLionProjects/COMP9024_Bevis/cmake-build-debug/CMakeFiles/llsplit.dir
+/Users/mac/CLionProjects/COMP9024_Bevis/cmake-build-debug/CMakeFiles/Graph.dir
+/Users/mac/CLionProjects/COMP9024_Bevis/cmake-build-debug/CMakeFiles/Graph2.dir
+/Users/mac/CLionProjects/COMP9024_Bevis/cmake-build-debug/CMakeFiles/WGraph.dir
+/Users/mac/CLionProjects/COMP9024_Bevis/cmake-build-debug/CMakeFiles/Warshall.dir
+/Users/mac/CLionProjects/COMP9024_Bevis/cmake-build-debug/CMakeFiles/Dij.dir
+/Users/mac/CLionProjects/COMP9024_Bevis/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mac/CLionProjects/COMP9024_Bevis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
